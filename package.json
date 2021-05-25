@@ -3,13 +3,7 @@
 	"version": "4.0.0",
 	"description": "Convert RGB(A) color to HEX",
 	"license": "MIT",
-	"repository": "sindresorhus/rgb-hex",
-	"funding": "https://github.com/sponsors/sindresorhus",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
-	},
+	"repository": "thehackercoding/rgb-hex-fixed",
 	"exports": "./index.js",
 	"engines": {
 		"node": ">=12"
