@@ -1,4 +1,4 @@
-module.exports.hexRgb = (hex, options = {}) => {
+module.exports.rgbHex = (red, green, blue, alpha) => {
 	const isPercent = (red + (alpha || '')).toString().includes('%');
 
 	if (typeof red === 'string') {
