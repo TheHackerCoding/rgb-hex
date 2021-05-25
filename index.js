@@ -1,4 +1,4 @@
-export default function rgbHex(red, green, blue, alpha) {
+module.exports.hexRgb = (hex, options = {}) => {
 	const isPercent = (red + (alpha || '')).toString().includes('%');
 
 	if (typeof red === 'string') {
