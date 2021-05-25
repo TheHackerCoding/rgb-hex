@@ -1,5 +1,5 @@
 {
-	"name": "rgb-hex",
+	"name": "rgb-hex-fixed",
 	"version": "4.0.0",
 	"description": "Convert RGB(A) color to HEX",
 	"license": "MIT",
